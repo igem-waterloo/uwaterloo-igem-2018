@@ -75,7 +75,7 @@ In theory, the expression of recombinant proteins can slow the growth of bacteri
 
 In order to test whether or not MetE expression at high levels could negatively affect cells, the team conducted an experiment. JT2 cells containing the CcaS/CcaR system were grown in M9 media that included methionine under different light conditions. Since the medium included methionine, the expression of MetE had no rescuing effect and had a purely negative impact. If cells grew faster under red light, there would be strong evidence that high expression of MetE had a negative effect.
 
-#### Q: Can we reliably measure 2 populations in co-culture?
+### Q: Can we reliably measure 2 populations in co-culture?
 
 To ensure that flow cytometry can accurately distinguish between fluorescent and non-fluorescent cells and report a population ratio, we compared it to pour plating. A fluorescent (containing Green Fluorescent Protein, GFP) and non-fluorescent strain were grown up separately overnight, diluted to have roughly the same optical density and different volumes of each were mixed (to obtain different ratios of fluorescent to non-fluorescent). 
 
