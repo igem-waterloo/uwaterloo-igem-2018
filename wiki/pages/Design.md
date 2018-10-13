@@ -56,18 +56,19 @@ Finally, we decided to grow the methionine-producing population in a methionine-
 In these experiments, we’re using JT2, an E. coli strain that has the MetE gene under control of the CcaS/R promoter, but behaves as a methionine auxotroph without CcaS/R plasmids. The methionine-producing population is transformed to contain CcaS/R and is exposed to light (such that MetE is expressed). The non-producing population is empty, or non-transformed, JT2.  
 	
 We did not expect our experimental sample, empty JT2 in the filtrate described above, to grow. Yet, several controls were needed to ensure that the lack of growth was indeed due to a lack of methionine. Each one sought out to test a different question/ possibility:
--Did JT2 simply not grow because there were not enough nutrients (other than methionine) in the filtrate? That is, if methionine is available in excess, does the filtrated used M9 medium have sufficient nutrients left to support growth? 
- -We tested this by 
-  -re-inoculating a sample of filtrate with methionine-producing cells  
-  -adding methionine to 
-   -a sample of filtrate and inoculating it with empty JT2 
-   -a sample of M9 (made without M9) and inoculating it with empty JT2   
+
+- Did JT2 simply not grow because there were not enough nutrients (other than methionine) in the filtrate? That is, if methionine is available in excess, does the filtrated used M9 medium have sufficient nutrients left to support growth? 
+ - We tested this by 
+  - re-inoculating a sample of filtrate with methionine-producing cells  
+  - adding methionine to 
+   - a sample of filtrate and inoculating it with empty JT2 
+   - a sample of M9 (made without M9) and inoculating it with empty JT2   
 - Is the methionine we’re adding contaminated? 
- -We tested this by adding methionine to fresh M9 stock (that wasn’t inoculated with anything) 
+ - We tested this by adding methionine to fresh M9 stock (that wasn’t inoculated with anything) 
 - Is our initial M9 stock contaminated with methionine?
-  -We tested this by inoculating a sample of fresh M9 stock with empty JT2 
+  - We tested this by inoculating a sample of fresh M9 stock with empty JT2 
 - Did we effectively remove all the methionine-producing cells with our filtration method? Is the M9 used filtrate contaminated?
-  -We tested this with a sample of filtrate that we did not inoculate with anything (if growth is seen, it is pre-existing contamination) 
+  - We tested this with a sample of filtrate that we did not inoculate with anything (if growth is seen, it is pre-existing contamination) 
 
 ### Q: What is the metabolic load of MetE (over)expression? 
 
