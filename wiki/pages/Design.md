@@ -59,10 +59,10 @@ We did not expect our experimental sample, empty JT2 in the filtrate described a
 
 - Did JT2 simply not grow because there were not enough nutrients (other than methionine) in the filtrate? That is, if methionine is available in excess, does the filtrated used M9 medium have sufficient nutrients left to support growth? 
   - We tested this by 
-   - re-inoculating a sample of filtrate with methionine-producing cells  
+     - re-inoculating a sample of filtrate with methionine-producing cells  
    - adding methionine to 
-    - a sample of filtrate and inoculating it with empty JT2 
-    - a sample of M9 (made without M9) and inoculating it with empty JT2   
+     - a sample of filtrate and inoculating it with empty JT2 
+     - a sample of M9 (made without M9) and inoculating it with empty JT2   
  - Is the methionine we’re adding contaminated? 
    - We tested this by adding methionine to fresh M9 stock (that wasn’t inoculated with anything) 
  - Is our initial M9 stock contaminated with methionine?
