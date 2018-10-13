@@ -26,6 +26,7 @@ The MV and CV are related by the following formulas:
 
 ![Formula1](http://latex2png.com/output//latex_d8c96bc3f73569bb6bf860bc0a18d7fe.png)
 ![Formula2](http://latex2png.com/output//latex_3081dcad4e3ae7dfd459bce86ea82bb2.png)
+![Formula3](http://latex2png.com/output//latex_33768bfcf8de3d833674b7ce86171395.png)
 
 1. A- lower asymptote of expected growth curve of light
 
