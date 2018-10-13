@@ -10,8 +10,8 @@ It’s been a long journey from ideas, to research sessions, design, failure, re
 ####    A: By controlling metE expression.
 
 Our project aims to maintain a stable co-culture by addressing the problem of competition between different microbial populations. We wanted to address this by regulating growth. We considered doing this in two ways:
--To kill cells in a population when it starts to outcompete the other
--To slow the growth of one population and allow the other to catch up
+- To kill cells in a population when it starts to outcompete the other
+- To slow the growth of one population and allow the other to catch up
 
 Through our research, we came up with one method for each option. 
 The first method involved expressing HipA, a serine/threonine protein kinase toxin, in the _Escherichia coli_ (_E. coli_) population with the faster growth rate. This would begin to kill some of the culture which in turn would allow the slower culture to catch up, thereby maintaining the co-culture.    
@@ -30,7 +30,7 @@ The second system that we wanted to use was a blue light activated system, so th
 #### A: Fluorescence and flow cytometry. 
 The next question to be answered was how to monitor the relative quantities of both populations in our co-culture. In order to know which lights to shine, and thus which population’s growth to encourage, we would need to obtain data on the relative abundance of the two populations. This data would need to be collected in real time so that we could modulate the light in response to any changes without disturbing the desired co-culture ratio. In order to do this, we decided to add a fluorescent protein marker to each population, RFP to one and GFP to the other, then detect the relative abundance of each culture using a flow cytometer. The flow cytometer allows almost real-time data collection and is far faster than plating cells and waiting for them to grow overnight. After some testing, we decided to change the plan to monitoring one culture using GFP and the other culture with no fluorescent protein, through flow cytometry. We decided this because our flow cytometer only contained a 488 nm laser, which was good at exciting GFP but not RFP, and it would be much simpler to collect data without RFP.
 
-##### A (Alternative): Our robot!
+#### A (Alternative): Our robot!
 However, using flow cytometry for measurements requires manual sampling, which is laborious and can be time consuming as we may need to take samples as often as every ~20 minutes.  As well, flow cytometers are expensive, which would make it difficult for other labs to replicate out setup. We aim for this system to work in any lab, and therefore we began to design an automated cell-sampling and fluorescence measurement system, which resulted in a collaboration between our math and lab subteams. 
 In the lab we have a turbidostat that was built in-house, and which is the prototype for a design that collaborators with our supervising professor’s lab hope to take on to the market.  The turbidostat monitors and maintains the optical density of the cell culture by diluting the cultures in the sample vials and removing the excess population. The turbidostat is also capable of subjecting cell populations to time-varying light input capable of inducing our optogenetic systems.
 Our automated fluorescence measuring system is based on monitoring the fluorescence of the cell culture, similar to the function of a flow cytometer.  As previously mentioned, the  turbidostat removes the excess volume after dilution.  From this “waste”, we can take samples to measure their fluorescence, which accurately represents the fluorescence hence the population ratios in the system. This sampling can be automated by using a vacuum pump and manifold to extract from the waste vial that is connected to the main system and pump the sample into the sampling vial and then, after the measurements have been taken, remove the sample from the sampling vial into the final waste vial so that a new measurement can be taken.  
@@ -58,17 +58,17 @@ In these experiments, we’re using JT2, an E. coli strain that has the MetE gen
 We did not expect our experimental sample, empty JT2 in the filtrate described above, to grow. Yet, several controls were needed to ensure that the lack of growth was indeed due to a lack of methionine. Each one sought out to test a different question/ possibility:
 
 - Did JT2 simply not grow because there were not enough nutrients (other than methionine) in the filtrate? That is, if methionine is available in excess, does the filtrated used M9 medium have sufficient nutrients left to support growth? 
- - We tested this by 
-  - re-inoculating a sample of filtrate with methionine-producing cells  
-  - adding methionine to 
-   - a sample of filtrate and inoculating it with empty JT2 
-   - a sample of M9 (made without M9) and inoculating it with empty JT2   
-- Is the methionine we’re adding contaminated? 
- - We tested this by adding methionine to fresh M9 stock (that wasn’t inoculated with anything) 
-- Is our initial M9 stock contaminated with methionine?
-  - We tested this by inoculating a sample of fresh M9 stock with empty JT2 
-- Did we effectively remove all the methionine-producing cells with our filtration method? Is the M9 used filtrate contaminated?
-  - We tested this with a sample of filtrate that we did not inoculate with anything (if growth is seen, it is pre-existing contamination) 
+  - We tested this by 
+   - re-inoculating a sample of filtrate with methionine-producing cells  
+   - adding methionine to 
+    - a sample of filtrate and inoculating it with empty JT2 
+    - a sample of M9 (made without M9) and inoculating it with empty JT2   
+ - Is the methionine we’re adding contaminated? 
+   - We tested this by adding methionine to fresh M9 stock (that wasn’t inoculated with anything) 
+ - Is our initial M9 stock contaminated with methionine?
+   - We tested this by inoculating a sample of fresh M9 stock with empty JT2 
+ - Did we effectively remove all the methionine-producing cells with our filtration method? Is the M9 used filtrate contaminated?
+   - We tested this with a sample of filtrate that we did not inoculate with anything (if growth is seen, it is pre-existing contamination) 
 
 ### Q: What is the metabolic load of MetE (over)expression? 
 
