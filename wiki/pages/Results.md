@@ -1,5 +1,88 @@
+Methionine Sharing Experiment
+
 Multiple trials went underway for the growth of J2T in knockout MetE media to definitively confirm that the predicted results occured in regards to NCM/J2T growth. As the goal of the experiment was to assure that there was no “leaking” of methionine from the J2T cells when stimulated with methionine production, the following test matrix was performed:
 
+<table>
+  <tr>
+    <th>Test Tube #</<th>
+    <th>Control</<th>
+    <th>Components</<th>
+    <th>Resuts</<th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Experimental</td>
+    <td>
+      → M9 Dropout with NCM removed (2 mL)<br>
+      → Added JT2 (25 uL)<br>
+      → KM (2 uL)
+    </td>
+    <td>No growth</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Positive</td>
+    <td>
+      → M9 Dropout with NCM removed (2 mL) <br>
+      → Stock culture NCM (2 uL)
+    </td>
+    <td>Minor growth*</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Positive</td>
+    <td>
+      → M9 Dropout with NCM removed (2 mL)<br>
+      → Added JT2 (25 uL)<br>
+      → KM(2 uL) <br>
+      → MetE (100 uL)
+    </td>
+    <td>Growth</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Negative</td>
+    <td>
+      → M9 Dropout with NCM removed (approx. 2 mL)<br>
+      → KM (2 uL)
+    </td>
+    <td>No growth</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>Negative</td>
+    <td>
+      → Stock M9 Dropout (2 mL) <br>
+      → KM (2 uL) <br>
+      → MetE (100 uL)
+    </td>
+    <td>No growth</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>Negative</td>
+    <td>
+      → Stock M9 Dropout (2 mL) <br>
+      → Added JT2 (25 uL) <br>
+      → KM (2 uL)
+    </td>
+    <td>No growth</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>Positive</td>
+    <td>
+      → Stock M9 Dropout (2 mL) <br>
+      → Added JT2 (25 uL) <br>
+      → KM (2 uL) <br>
+      → MetE (100 uL) 
+    </td>
+    <td>Growth</td>
+  </tr>
+  <tr>
+    <td colspan="4"> WHATS THAT STAR </td>
+  </tr>
+</table>
 
 Test Tube #
 Control
@@ -65,3 +148,40 @@ Trial 5 similarly was carried out with stock M9 to assure no environmental conta
 Trial 6 was carried out as a negative control to assure that the stock media itself was not contaminated with any nutrients that could be used by the JT2 to grow. This was important as it is possible that trace amounts could have been consumed in the other trials by the NCM bacteria and thus were not reflected in the experimental trial.  
 
 Finally, the 7th trial indicated that the JT2 strain that was in this bacteria was healthy and could grow in the desired conditions within the M9 media, with the methionine and the KM from stock solution.
+
+
+GFP vs Non-Fluorescent Flow Test Experiment 
+
+Our comparison of the flow cytometer against pour plating started with a fluorescent and a non-fluorescent culture of roughly the same OD values. Below our initial ODs and results from both the flow cytometer and pour plating.
+
+<table>
+  <tr>
+    <th></th>
+    <th>Fluorescent</th>
+    <th>Non-Fluorescent</th>
+  </tr>
+  <tr>
+    <td>Initial OD</td>
+    <td>0.405</td>
+    <td>0.430</td>
+  </tr>
+  <tr>
+    <td>Flow Cytometer <br> 480nm Laser at 10mW</td>
+    <td>52%</td>
+    <td>48%</td>
+  </tr>
+  <tr>
+    <td>Pour Plating <br> Percent total CFU/mL</td>
+    <td>52%</td>
+    <td>49%</td>
+  </tr>
+</table>
+ 
+These results lead us to believe that the flow cytometer is representative of pour plating, indicating that the flow cytometer is most likely capable of giving accurate readings of a 50/50 population of fluorescent/non-fluorescent cells.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
