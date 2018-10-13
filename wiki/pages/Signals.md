@@ -26,3 +26,21 @@ The MV and CV are related by the following formulas:
 
 ![Formula1](http://latex2png.com/output//latex_d8c96bc3f73569bb6bf860bc0a18d7fe.png)
 
+1. A- lower asymptote of expected growth curve of light
+
+2. K- upper asymptote of expected growth curve of light
+
+3. C- typically 1
+
+4. ν- controls behavior near the asymptote closest to the maximum growth
+
+5. Q- related toY(0)
+
+6. k- linear factor by which GFP and general protein growth are related
+
+7. d- linear factor by which GFP decay and general protein usage are related
+
+8. W- Stochastic Process for Noise (optional)
+
+9. D- some function that determines the growth/denaturation of general proteins independent of GFP (optional)
+
