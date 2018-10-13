@@ -47,7 +47,7 @@ Finally, we decided to grow the methionine-producing population in a methionine-
 
 In these experiments, we’re using JT2, an E. coli strain that has the MetE gene under control of the CcaS/R promoter, but behaves as a methionine auxotroph without CcaS/R plasmids. The methionine-producing population is transformed to contain CcaS/R and is exposed to light (such that MetE is expressed). The non-producing population is empty, or non-transformed, JT2.  
 	
-	We did not expect our experimental sample, empty JT2 in the filtrate described above, to grow. Yet, several controls were needed to ensure that the lack of growth was indeed due to a lack of methionine. Each one sought out to test a different question/ possibility:
+We did not expect our experimental sample, empty JT2 in the filtrate described above, to grow. Yet, several controls were needed to ensure that the lack of growth was indeed due to a lack of methionine. Each one sought out to test a different question/ possibility:
 -Did JT2 simply not grow because there were not enough nutrients (other than methionine) in the filtrate? That is, if methionine is available in excess, does the filtrated used M9 medium have sufficient nutrients left to support growth? 
  -We tested this by 
   -re-inoculating a sample of filtrate with methionine-producing cells  
@@ -63,9 +63,9 @@ In these experiments, we’re using JT2, an E. coli strain that has the MetE gen
 
 ### Q: What is the metabolic load of MetE (over)expression? 
 
-	In theory, the expression of recombinant proteins can slow the growth of bacterial strains by occupying the protein synthesis machinery of the cell. The expression of MetE in the JT2 strain has a previously discussed positive impact that speeds up cell growth, but it is also possible that MetE expression at high levels can have a negative impact on growth. This could result in a complicated and unwanted pattern in growth rate versus MetE expression levels.
+In theory, the expression of recombinant proteins can slow the growth of bacterial strains by occupying the protein synthesis machinery of the cell. The expression of MetE in the JT2 strain has a previously discussed positive impact that speeds up cell growth, but it is also possible that MetE expression at high levels can have a negative impact on growth. This could result in a complicated and unwanted pattern in growth rate versus MetE expression levels.
 
-	In order to test whether or not MetE expression at high levels could negatively affect cells, the team conducted an experiment. JT2 cells containing the CcaS/CcaR system were grown in M9 media that included methionine under different light conditions. Since the medium included methionine, the expression of MetE had no rescuing effect and had a purely negative impact. If cells grew faster under red light, there would be strong evidence that high expression of MetE had a negative effect.
+In order to test whether or not MetE expression at high levels could negatively affect cells, the team conducted an experiment. JT2 cells containing the CcaS/CcaR system were grown in M9 media that included methionine under different light conditions. Since the medium included methionine, the expression of MetE had no rescuing effect and had a purely negative impact. If cells grew faster under red light, there would be strong evidence that high expression of MetE had a negative effect.
 
 #### Q: Can we reliably measure 2 populations in co-culture?
 
@@ -73,9 +73,9 @@ To ensure that flow cytometry can accurately distinguish between fluorescent and
 
 ### Q: Can we control growth with red and green light? 
 
-	The control of population growth is the ultimate goal of our project. After the metabolic load of MetE was tested we were able to test the optogenetic control of population growth. When green light is on the population we should get MetE expression which will cause an increase in growth. When red light is on there should not be MetE expression and there will be minimal or reduced growth.
+The control of population growth is the ultimate goal of our project. After the metabolic load of MetE was tested we were able to test the optogenetic control of population growth. When green light is on the population we should get MetE expression which will cause an increase in growth. When red light is on there should not be MetE expression and there will be minimal or reduced growth.
 
-	In order to test that we could control the growth of our populations with red and green light we conducted an experiment. JT2 cells containing the Ccas/Ccar system were grown in M9 media without any methionine. As there was no methionine in the media, the expression of MetE was the only way the cell could get methionine. Half the population was put in the incubator with green light, while the other half was put in the incubator with red light. The population in green light should have increased growth and the population in red light should have minimal growth. If this is the case then it would be evidence that we are able to control growth with red and green light.
+In order to test that we could control the growth of our populations with red and green light we conducted an experiment. JT2 cells containing the Ccas/Ccar system were grown in M9 media without any methionine. As there was no methionine in the media, the expression of MetE was the only way the cell could get methionine. Half the population was put in the incubator with green light, while the other half was put in the incubator with red light. The population in green light should have increased growth and the population in red light should have minimal growth. If this is the case then it would be evidence that we are able to control growth with red and green light.
 
 ## References
 
