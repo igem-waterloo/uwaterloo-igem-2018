@@ -10,8 +10,8 @@ It’s been a long journey from ideas, to research sessions, design, failure, re
 ####    A: By controlling metE expression.
 
 Our project aims to maintain a stable co-culture by addressing the problem of competition between different microbial populations. We wanted to address this by regulating growth. We considered doing this in two ways:
--   To kill cells in a population when it starts to outcompete the other
--   To slow the growth of one population and allow the other to catch up
+-To kill cells in a population when it starts to outcompete the other
+-To slow the growth of one population and allow the other to catch up
 
 Through our research, we came up with one method for each option. 
 The first method involved expressing HipA, a serine/threonine protein kinase toxin, in the _Escherichia coli_ (_E. coli_) population with the faster growth rate. This would begin to kill some of the culture which in turn would allow the slower culture to catch up, thereby maintaining the co-culture.    
@@ -48,7 +48,7 @@ Finally, we decided to grow the methionine-producing population in a methionine-
 In these experiments, we’re using JT2, an E. coli strain that has the MetE gene under control of the CcaS/R promoter, but behaves as a methionine auxotroph without CcaS/R plasmids. The methionine-producing population is transformed to contain CcaS/R and is exposed to light (such that MetE is expressed). The non-producing population is empty, or non-transformed, JT2.  
 	
 	We did not expect our experimental sample, empty JT2 in the filtrate described above, to grow. Yet, several controls were needed to ensure that the lack of growth was indeed due to a lack of methionine. Each one sought out to test a different question/ possibility:
-- Did JT2 simply not grow because there were not enough nutrients (other than methionine) in the filtrate? That is, if methionine is available in excess, does the filtrated used M9 medium have sufficient nutrients left to support growth? 
+-Did JT2 simply not grow because there were not enough nutrients (other than methionine) in the filtrate? That is, if methionine is available in excess, does the filtrated used M9 medium have sufficient nutrients left to support growth? 
  -We tested this by 
   -re-inoculating a sample of filtrate with methionine-producing cells  
   -adding methionine to 
