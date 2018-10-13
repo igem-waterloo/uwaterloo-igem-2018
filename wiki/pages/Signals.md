@@ -18,5 +18,11 @@ we need to come up with a sequence of light signals that keep the bacteria growi
 
 We define a few parameters for this algorithm:
 
-A Manipulated Variable is a variable we are trying to control - in this case it is the population ratio.
-A Controlled Variable is the parameter we change in order to 
+Manipulated variable - The parameter output by the program in order to control the ratio. In this case the MV is the light pulse width
+
+Controlled variable - The parameter controlled by the program as a consequence of the MV value. In this case the CV is the population ratio.
+
+The MV and CV are related by the following formulas:
+
+![Formula1](http://latex2png.com/output//latex_d8c96bc3f73569bb6bf860bc0a18d7fe.png)
+
