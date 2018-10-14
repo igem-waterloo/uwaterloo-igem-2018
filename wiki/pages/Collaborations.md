@@ -20,7 +20,12 @@ We met with the McMaster iGEM team several times early in the year to discuss di
 
 **Guelph iGEM** 
 
-We first met the Guelph iGEM team in  
+We first met the Guelph iGEM team last year at oGEM 2017 (an meet-up we hosted with Ontario iGEM teams). It was their first year as an iGEM team. They described the struggles and financial barriers they were facing as a new team. We've kept in touch since then. We mentored members on their team about finances this year. Jehoshua Sharma, the Guelph team's head of research, reached out to us this summer to discuss how to obtain funding for an iGEM team. We offered advice regarding: 
+ - how to pitch iGEM to department heads (as an amazing opportunity, a way to showcase the university on an international scale, etc.) 
+ - how to obtain funding by reaching our to various departments/student societies
+ 
+Members from both our teams also attended [Western SynBio Symposium 3.0](https://www.synbiowestern.com/) on July 26th, 2018. After the conference, we met up and discussed ways to improve our teams: 
+
 
 ## Public Engagement & Outreach
  
