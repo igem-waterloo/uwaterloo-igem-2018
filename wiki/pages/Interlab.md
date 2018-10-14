@@ -14,30 +14,30 @@ E. coli strain K-12 DH5-alpha was the bacterial strain used.
 The first calibration attempt used a Molecular Devices Model F5 reader and black 96-well plates with clear, flat bottoms. 
 
 All subsequent measurements were completed using a BioTek Synergy 4 plate reader. It was configured as follows:
--Top Optics
--Pathlength correction turned off
--Temperature control turned off (room temperature)
--Sensitivity: 66
--600 nm absorbance wavelength
--485 nm fluorescence excitation wavelength
--525 nm fluorescence emission wavelength
+- Top Optics
+- Pathlength correction turned off
+- Temperature control turned off (room temperature)
+- Sensitivity: 66
+- 600 nm absorbance wavelength
+- 485 nm fluorescence excitation wavelength
+- 525 nm fluorescence emission wavelength
 
 The methods in the iGEM 2018 Interlab Study Protocol were followed as closely as possible, with the exception of the following deviations:
 
--Calibration 2: Microsphere Protocol (Attempt #1)
- -1.5-mL microfuge tubes were substituted for 2.0-mL tubes. The contents added to the tubes were exactly the same as specified in the procedure. 
+- Calibration 2: Microsphere Protocol (Attempt #1)
+ - 1.5 mL microfuge tubes were substituted for 2.0-mL tubes. The contents added to the tubes were exactly the same as specified in the procedure. 
 
--Calibration 2: Microsphere Protocol (Attempt #3)
- -Between attempts, 96-well plates were covered and sealed with parafilm for up to two days. 
- -Immediately before reading, we pipetted up and down in each well, then inserted into the plate reader and shook on “high” for 3 minutes. 
+- Calibration 2: Microsphere Protocol (Attempt #3)
+ - Between attempts, 96-well plates were covered and sealed with parafilm for up to two days. 
+ - Immediately before reading, we pipetted up and down in each well, then inserted into the plate reader and shook on “high” for 3 minutes. 
 
--Cell Measurement Protocol
- -The plates were shaken on “high” for 3 minutes prior to reading.
- -After picking two colonies from each transformant plate, we prepared frozen stock from each colony, then used the frozen stock to inoculate the 5-10 mL cultures.
+- Cell Measurement Protocol
+ - The plates were shaken on “high” for 3 minutes prior to reading.
+ - After picking two colonies from each transformant plate, we prepared frozen stock from each colony, then used the frozen stock to inoculate the 5-10 mL cultures.
 
--CFU protocol
- -The plates were shaken on “high” for 3 minutes prior to reading.
- -After picking two colonies from each transformant plate, we prepared frozen stock from each colony, then used the frozen stock to inoculate the 5-10 mL cultures.
+- CFU protocol
+ - The plates were shaken on “high” for 3 minutes prior to reading.
+ - After picking two colonies from each transformant plate, we prepared frozen stock from each colony, then used the frozen stock to inoculate the 5-10 mL cultures.
 
 ##Results and Discussion
 Up to three attempts were required for each calibration in order to produce good data. Fresh samples were prepared for each attempt. The first attempts at all calibrations were completed using the Molecular Devices Model F5 reader, but problems with the fluorescence readings on the Molecular Devices Model F5 reader meant that all subsequent attempts were completed using the BioTek Synnergy 4 plate reader. The cell measurement protocol and CFU protocol were completed exclusively using the BioTek Synnergy 4 plate reader.
@@ -78,9 +78,9 @@ The second attempt was conducted using the BioTek Synergy 4 plate reader, pipett
 
 Fig. 4. Absorbance plot for calibration #2 attempt 2. Error bars represent standard deviation.
 
-	In addition to the data’s lack of linearity, it was also noted that the wells did not appear to be well-mixed, with visible settling of particles even after pipetting up and down. We hypothesized that uneven settling of particulates caused deviations from the expected linear trend. This made us decide to use the plate reader’s shaking feature in order to provide more even mixing and to prevent settling. 
+In addition to the data’s lack of linearity, it was also noted that the wells did not appear to be well-mixed, with visible settling of particles even after pipetting up and down. We hypothesized that uneven settling of particulates caused deviations from the expected linear trend. This made us decide to use the plate reader’s shaking feature in order to provide more even mixing and to prevent settling. 
 
-	The third attempt was completed using all of the same specifications as the second, but the plate reader’s shake feature was used to shake the plate on “high” for 3 minutes prior to reading. The linear absorbance plot (fig. 5) has a better R^2 value than attempt 2 (R^2 = 0.9962), suggesting that shaking helped avoid settling. The error bars are also relatively small, indicating good agreement between replicates, as in attempt 2. 
+The third attempt was completed using all of the same specifications as the second, but the plate reader’s shake feature was used to shake the plate on “high” for 3 minutes prior to reading. The linear absorbance plot (fig. 5) has a better R^2 value than attempt 2 (R^2 = 0.9962), suggesting that shaking helped avoid settling. The error bars are also relatively small, indicating good agreement between replicates, as in attempt 2. 
 
 [Insert figure 5]
 
