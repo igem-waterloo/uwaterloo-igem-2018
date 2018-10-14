@@ -9,16 +9,16 @@ We found the interlab particularly interesting this year because it also related
 
 We gifted the Guelph iGEM team with black, flat, clear-bottomed, 96 well plates. 
 
-__McMaster iGEM
+**McMaster iGEM**
 
 We gave the McMaster iGEM team *E. coli* DH5-alpha cells so that they could meet [requirement #2 for successful completion of the interlab study](http://2018.igem.org/Measurement/InterLab). 
 
 ## Mentoring, Brainstorming, and Troubleshooting
-** McMaster iGEM **
+**McMaster iGEM**
 
 We met with the McMaster iGEM team several times early in the year to discuss different projects each of our teams were considering. We listened to each other's ideas, and provided each other with feedback. 
 
-** Guelph iGEM ** 
+**Guelph iGEM** 
 
 We first met the Guelph iGEM team in  
 
