@@ -61,7 +61,7 @@ Fig. 2. Raw absorbance results of calibration #1 attempt #2
 
 This data differs from that obtained in attempt #1, but a different instrument was used to obtain the measurements, so this is expected. The OD600/Abs600 value obtained in attempt #2 was used in all subsequent experiments. 
 
-###Calibration 2
+### Calibration 2
 Calibration #2 measured the Abs600 of a dilution series of monodisperse silica microspheres provided by iGEM in Milli-Q water. This is useful because silica microspheres share similar optical characteristics with cells. We were able to construct a standard curve relating Abs600 to particle concentration.
 
 The first attempt was conducted using the Molecular Devices Model F5 reader, pipetting up and down in each well prior to reading. The absorbance plot (fig. 3) shows a strong positive correlation (R^2 = 0.9839), but there is visible deviation from a straight line. The relatively large error bars also show poor agreement between replicates. 
@@ -123,10 +123,20 @@ For all devices, the absolute fluorescence increases from t = 0h to t = 6h. The 
 
 In contrast, equivalent fluorescein fluorescence per particle decreased over time. Although absolute fluorescence increased, the number of cells increased by a greater amount, so the fluorescence produced by each individual cell is less. Although one might expect cells to produce the same unit fluorescence regardless of number, biological phenomena such as plasmid loss may have occurred during the incubation period, reducing the expression of GFP by each cell. It is also possible that the rate of cell division was greater than the rate of GFP production, causing an effective dilution of GFP in each cell during cell division.
 
-###CFU Protocol 
+### CFU Protocol 
 This protocol investigated the relationship between absorbance and colony-forming units. E. coli DHS alpha was transformed with the positive and negative control devices, and two colonies with each device were selected and grown overnight. Each overnight culture was then diluted to a given target absorbance. From the protocol’s guidelines and our calculated relationship between optical density and absorbance, the target absorbance was 0.024. 
 
 The cultures were diluted further and spread onto LB agar + Cm plates, giving final dilution factors of 8*10^4, 8*10^5, and 8*10^6. The plates were incubated overnight and the colonies counted. This allowed calculation of CFUs per mL of Abs600 = 0.024 sample.
 
 [Insert figure 10]
+
+These data are relatively poor because of the very large error bars. These error bars are especially large for 8*10^6. This can be attributed to the very low colony counts on these plates, which were as low as 1 or 0 for some plates. Results drawn from such low colony counts are not statistically sound. 8*10^4 and 8*10^5 produced poor data for similar reasons, but the error is less extreme. However, some general conclusions may be drawn. 
+
+For each device, the CFU/mL calculated using each dilution factor are mostly in agreement. In addition, for each device, the error bars all span a common range, inside of which the true CFU/mL count is presumed to reside. Despite the very large amount of uncertainty, this internal consistency suggests that the procedure was carried out correctly, but that the samples were too dilute to produce statistically meaningful data. If the experiment is repeated, less dilute samples should be plated to give higher colony counts. 
+
+Excluding 8*10^6, the negative controls show overall fewer CFU/mL than the positive controls. This suggests that the positive control has a growth advantage over the negative in the environment tested. 
+
+### Acknowledgements 
+We would like to extend our most sincere gratitude to Prof. Raymond Legge (Dept. of Chemical Engineering, University of Waterloo) and Andrew Assatory, a graduate student working under Prof. Legge. These results would not have been possible without their assistance. Prof. Legge kindly allowed us to use his BioTek Synergy 4 plate reader on very short notice, and Andrew accommodated our use of the plate reader into his busy schedule.
+
 
