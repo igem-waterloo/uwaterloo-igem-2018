@@ -25,19 +25,19 @@ All subsequent measurements were completed using a BioTek Synergy 4 plate reader
 The methods in the iGEM 2018 Interlab Study Protocol were followed as closely as possible, with the exception of the following deviations:
 
 - Calibration 2: Microsphere Protocol (Attempt #1)
- - 1.5 mL microfuge tubes were substituted for 2.0-mL tubes. The contents added to the tubes were exactly the same as specified in the procedure. 
+  - 1.5 mL microfuge tubes were substituted for 2.0-mL tubes. The contents added to the tubes were exactly the same as specified in the procedure. 
 
 - Calibration 2: Microsphere Protocol (Attempt #3)
- - Between attempts, 96-well plates were covered and sealed with parafilm for up to two days. 
- - Immediately before reading, we pipetted up and down in each well, then inserted into the plate reader and shook on “high” for 3 minutes. 
+  - Between attempts, 96-well plates were covered and sealed with parafilm for up to two days. 
+  - Immediately before reading, we pipetted up and down in each well, then inserted into the plate reader and shook on “high” for 3 minutes. 
 
 - Cell Measurement Protocol
- - The plates were shaken on “high” for 3 minutes prior to reading.
- - After picking two colonies from each transformant plate, we prepared frozen stock from each colony, then used the frozen stock to inoculate the 5-10 mL cultures.
+  - The plates were shaken on “high” for 3 minutes prior to reading.
+  - After picking two colonies from each transformant plate, we prepared frozen stock from each colony, then used the frozen stock to inoculate the 5-10 mL cultures.
 
 - CFU protocol
- - The plates were shaken on “high” for 3 minutes prior to reading.
- - After picking two colonies from each transformant plate, we prepared frozen stock from each colony, then used the frozen stock to inoculate the 5-10 mL cultures.
+  - The plates were shaken on “high” for 3 minutes prior to reading.
+  - After picking two colonies from each transformant plate, we prepared frozen stock from each colony, then used the frozen stock to inoculate the 5-10 mL cultures.
 
 ##Results and Discussion
 Up to three attempts were required for each calibration in order to produce good data. Fresh samples were prepared for each attempt. The first attempts at all calibrations were completed using the Molecular Devices Model F5 reader, but problems with the fluorescence readings on the Molecular Devices Model F5 reader meant that all subsequent attempts were completed using the BioTek Synnergy 4 plate reader. The cell measurement protocol and CFU protocol were completed exclusively using the BioTek Synnergy 4 plate reader.
