@@ -126,15 +126,15 @@ In contrast, equivalent fluorescein fluorescence per particle decreased over tim
 ### CFU Protocol 
 This protocol investigated the relationship between absorbance and colony-forming units. E. coli DHS alpha was transformed with the positive and negative control devices, and two colonies with each device were selected and grown overnight. Each overnight culture was then diluted to a given target absorbance. From the protocol’s guidelines and our calculated relationship between optical density and absorbance, the target absorbance was 0.024. 
 
-The cultures were diluted further and spread onto LB agar + Cm plates, giving final dilution factors of 8*10^4, 8*10^5, and 8*10^6. The plates were incubated overnight and the colonies counted. This allowed calculation of CFUs per mL of Abs600 = 0.024 sample.
+The cultures were diluted further and spread onto LB agar + Cm plates, giving final dilution factors of 8x10^4, 8x10^5, and 8x10^6. The plates were incubated overnight and the colonies counted. This allowed calculation of CFUs per mL of Abs600 = 0.024 sample.
 
 [Insert figure 10]
 
-These data are relatively poor because of the very large error bars. These error bars are especially large for 8*10^6. This can be attributed to the very low colony counts on these plates, which were as low as 1 or 0 for some plates. Results drawn from such low colony counts are not statistically sound. 8*10^4 and 8*10^5 produced poor data for similar reasons, but the error is less extreme. However, some general conclusions may be drawn. 
+These data are relatively poor because of the very large error bars. These error bars are especially large for 8x10^6. This can be attributed to the very low colony counts on these plates, which were as low as 1 or 0 for some plates. Results drawn from such low colony counts are not statistically sound. 8x10^4 and 8x10^5 produced poor data for similar reasons, but the error is less extreme. However, some general conclusions may be drawn. 
 
 For each device, the CFU/mL calculated using each dilution factor are mostly in agreement. In addition, for each device, the error bars all span a common range, inside of which the true CFU/mL count is presumed to reside. Despite the very large amount of uncertainty, this internal consistency suggests that the procedure was carried out correctly, but that the samples were too dilute to produce statistically meaningful data. If the experiment is repeated, less dilute samples should be plated to give higher colony counts. 
 
-Excluding 8*10^6, the negative controls show overall fewer CFU/mL than the positive controls. This suggests that the positive control has a growth advantage over the negative in the environment tested. 
+Excluding 8x10^6, the negative controls show overall fewer CFU/mL than the positive controls. This suggests that the positive control has a growth advantage over the negative in the environment tested. 
 
 ### Acknowledgements 
 We would like to extend our most sincere gratitude to Prof. Raymond Legge (Dept. of Chemical Engineering, University of Waterloo) and Andrew Assatory, a graduate student working under Prof. Legge. These results would not have been possible without their assistance. Prof. Legge kindly allowed us to use his BioTek Synergy 4 plate reader on very short notice, and Andrew accommodated our use of the plate reader into his busy schedule.
