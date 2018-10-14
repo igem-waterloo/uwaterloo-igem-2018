@@ -39,10 +39,10 @@ The methods in the iGEM 2018 Interlab Study Protocol were followed as closely as
   - The plates were shaken on “high” for 3 minutes prior to reading.
   - After picking two colonies from each transformant plate, we prepared frozen stock from each colony, then used the frozen stock to inoculate the 5-10 mL cultures.
 
-##Results and Discussion
+## Results and Discussion
 Up to three attempts were required for each calibration in order to produce good data. Fresh samples were prepared for each attempt. The first attempts at all calibrations were completed using the Molecular Devices Model F5 reader, but problems with the fluorescence readings on the Molecular Devices Model F5 reader meant that all subsequent attempts were completed using the BioTek Synnergy 4 plate reader. The cell measurement protocol and CFU protocol were completed exclusively using the BioTek Synnergy 4 plate reader.
 
-###Calibration 1
+### Calibration 1
 Calibration #1 measured the absorbance at 600 nm of the provided LUDOX CL-X sample. This calibration served to establish a conversion factor (OD600/Abs600), which was used to transform Abs600 data to the equivalent OD600, as would be obtained from a spectrophotometer.
 
 Four replicates were used, each with Milli-Q water as a blank. This calibration was attempted twice. 
@@ -86,7 +86,7 @@ The third attempt was completed using all of the same specifications as the seco
 
 Fig. 5. Absorbance plot for calibration #2 attempt 3. Error bars represent standard deviation.
 
-###Calibration 3
+### Calibration 3
 Calibration #3 measured the fluorescence of a dilution series of fluorescein solution. Excitation and emission wavelengths of 485 nm and 525 nm respectively were used. Fluorescein is a small molecule with similar fluorescence characteristics to GFP, so these measurements allowed for the construction of a standard curve relating fluorescence to fluorophore concentration. 
 
 The first attempt was completed using the Molecular Devices Model F5 reader. The linear fluorescence plot shows nearly constant fluorescence as a function of concentration. However, some noise is also present, resulting in an extremely low R^2 value of 0.0815. The error bars vary greatly in size, indicating large variations in the degree of agreement between replicates. 
@@ -104,7 +104,7 @@ The second attempt was completed using the BioTek Synnergy 4 plate reader. The l
 [Insert figure 7]
 Fig. 7. Fluorescence plot for calibration #3 attempt 2. Error bars represent standard deviation.
 
-###Cell Measurement Protocol 
+### Cell Measurement Protocol 
 This section of the protocol compared the fluorescence of E. coli DHS alpha transformants with each of six test devices and two controls. Two colonies of each transformant were picked and grown overnight in LB + Cm broth. They were then diluted to a provided target OD600 of 0.10, which was calculated to correspond to an Abs600 of 0.024. The fluorescence of each diluted sample was then measured with excitation and emission wavelengths of 485 nm and 525 nm respectively. These results are presented in figure 9. Fluorescence was measured immediately after dilution (0h) and after 6h incubation. 
 
 [Insert figure 8]
