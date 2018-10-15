@@ -13,7 +13,7 @@ Multiple trials went underway for the growth of CcaS/R v2.0 JT2 in knockout MetE
     <td>1</td>
     <td>Experimental</td>
     <td>
-      → M9 - met with CcaS/R v2.0 JT2 removed (3 mL)
+      → M9 - met with CcaS/R v2.0 JT2 removed (3 mL)<br>
       → Empty JT2 (50 µL)
     </td>
     <td>OD = 0.010 </td>
@@ -22,7 +22,7 @@ Multiple trials went underway for the growth of CcaS/R v2.0 JT2 in knockout MetE
     <td>2</td>
     <td>Positive</td>
     <td>
-      → M9 - met with CcaS/R v2.0 JT2 removed (3 mL)
+      → M9 - met with CcaS/R v2.0 JT2 removed (3 mL)<br>
       → CcaS/R v2.0 JT2 (50 µL)
     <td>OD = 0.820</td>
   </tr>
@@ -30,8 +30,8 @@ Multiple trials went underway for the growth of CcaS/R v2.0 JT2 in knockout MetE
     <td>3</td>
     <td>Positive</td>
     <td>
-      → M9 - met with CcaS/R v2.0 JT2 removed (3 mL)
-      → Empty JT2 (50 µL)
+      → M9 - met with CcaS/R v2.0 JT2 removed (3 mL)<br>
+      → Empty JT2 (50 µL)<br>
       → Met (150 µL)    </td>
     </td>
     <td>OD = 0.799 </td>
@@ -47,7 +47,7 @@ Multiple trials went underway for the growth of CcaS/R v2.0 JT2 in knockout MetE
     <td>5</td>
     <td>Negative</td>
     <td>
-      → Stock M9 - met (3 mL)
+      → Stock M9 - met (3 mL)<br>
       → Met (150 µL)
     </td>
     <td>OD = 0.004</td>
@@ -56,7 +56,7 @@ Multiple trials went underway for the growth of CcaS/R v2.0 JT2 in knockout MetE
     <td>6</td>
     <td>Negative</td>
     <td>
-      → Stock M9 - met (3 mL)
+      → Stock M9 - met (3 mL)<br>
       → Empty JT2 (50 µL)    </td>
     <td>OD = 0.005</td>
   </tr>
@@ -64,8 +64,8 @@ Multiple trials went underway for the growth of CcaS/R v2.0 JT2 in knockout MetE
     <td>7</td>
     <td>Positive</td>
     <td>
-      → Stock M9 - met (3 mL)
-      → Empty JT2 (50 µL)
+      → Stock M9 - met (3 mL)<br>
+      → Empty JT2 (50 µL)<br>
       → Met (150 µL)    </td>
     <td>OD = 0.812</td>
   </tr>
