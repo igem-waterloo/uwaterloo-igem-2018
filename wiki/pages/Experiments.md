@@ -238,7 +238,7 @@ _Pouring and running your gel:_
     <td>1</td>
     <td>Experimental</td>
     <td>
-      → M9 - met with CcaS/R v2.0 JT2 removed (3 mL)
+      → M9 - met with CcaS/R v2.0 JT2 removed (3 mL) <br>
       → Empty JT2 (50 µL)
     </td>
   </tr>
@@ -246,15 +246,15 @@ _Pouring and running your gel:_
     <td>2</td>
     <td>Positive</td>
     <td>
-      → M9 - met with CcaS/R v2.0 JT2 removed (3 mL)
+      → M9 - met with CcaS/R v2.0 JT2 removed (3 mL)<br>
       → CcaS/R v2.0 JT2 (50 µL)
   </tr>
   <tr>
     <td>3</td>
     <td>Positive</td>
     <td>
-      → M9 - met with CcaS/R v2.0 JT2 removed (3 mL)
-      → Empty JT2 (50 µL)
+      → M9 - met with CcaS/R v2.0 JT2 removed (3 mL)<br>
+      → Empty JT2 (50 µL)<br>
       → Met (150 µL)    </td>
     </td>
   </tr>
@@ -268,7 +268,7 @@ _Pouring and running your gel:_
     <td>5</td>
     <td>Negative</td>
     <td>
-      → Stock M9 - met (3 mL)
+      → Stock M9 - met (3 mL)<br>
       → Met (150 µL)
     </td>
   </tr>
@@ -276,15 +276,15 @@ _Pouring and running your gel:_
     <td>6</td>
     <td>Negative</td>
     <td>
-      → Stock M9 - met (3 mL)
+      → Stock M9 - met (3 mL)<br>
       → Empty JT2 (50 µL)    </td>
   </tr>
   <tr>
     <td>7</td>
     <td>Positive</td>
     <td>
-      → Stock M9 - met (3 mL)
-      → Empty JT2 (50 µL)
+      → Stock M9 - met (3 mL)<br>
+      → Empty JT2 (50 µL)<br>
       → Met (150 µL)    </td>
   </tr>
 </table>
