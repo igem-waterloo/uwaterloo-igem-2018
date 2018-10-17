@@ -18,6 +18,12 @@ def submitted_result():
     return jsonify({'success': ':)'})
 
 
+@app.route('/results', methods=['GET'])
+def get_results():
+    results = Result.query().fetch()
+    return jsonify([result.text for result in results])
+
+
 @app.errorhandler(404)
 def not_found(e):
     return jsonify({'error': 'Not found'}), 404
