@@ -3,20 +3,25 @@ from random import random
 from gekko import GEKKO
 import matplotlib.pyplot as plt
 
+Q = 1
+beta = 1
+nu = 1
 #----- Moving Horizon Estimation Model Setup -----#
 
 mhe = GEKKO()
-mhe.dl = mhe.MV()
+mhe.dl = mhe.MV() #output
 mhe.A = mhe.FV(value = 1, lb = 1, ub = 3)
 mhe.K = mhe.FV(value = 1, lb = 1, ub = 3)
-mhe.g = mhe.CV()
+mhe.g = mhe.CV() #measured control variable
 
 def SUM(init, final, args):
     #sum here
-def LOGISTIC(a, k):
+def LOGISTICMHE(a, k, t):
+    return a+(k-a)/((C+Q*mhe.exp(-beta*t))**(1/nu))
+
     #logistic here
 
-mhe.Equation(mhe.dl == SUM(i,f,m.g.dt()*LOGISTIC(A,K)))
+mhe.Equation(mhe.dl == SUM(i,f,mhe.g.dt()*LOGISTIC(A,K)))
 mhe.options.IMODE = 5
 mhe.options.EV_TYPE = 1
 mhe.options.DIAGLEVEL = 0
@@ -45,3 +50,10 @@ mhe.g.TR_INIT = 1
 #----- Model Predictive Control Setup -----#
 
 mpc = GEKKO()
+
+mpc.dl = mpc.MV()
+mpc.A = mpc.FV()
+mpc.K = mpc.FV()
+mpc.g = mpc.CV()
+
+mpc.Equation(mpc.dl == SUM(i,f,mpc.g.dt()*LOGISTIC(A,K)))

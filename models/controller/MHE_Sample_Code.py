@@ -28,7 +28,7 @@ m = GEKKO()
 m.time = np.linspace(0,20,41) #0-20 by 0.5 -- discretization must match simulation
 
 #Parameters
-m.u = m.MV() #input
+m.u = m.MV() #output
 m.K = m.FV(value=3, lb=1, ub=3) #gain
 m.tau = m.FV(value=4, lb=1, ub=10) #time constant
 
@@ -73,7 +73,7 @@ c = GEKKO()
 c.time = np.linspace(0,5,11) #0-5 by 0.5 -- discretization must match simulation
 
 #Parameters
-c.u = c.MV(lb=-10,ub=10) #input
+c.u = c.MV(lb=-10,ub=10) #output
 c.K = c.FV(value=10, lb=1, ub=3) #gain
 c.tau = c.FV(value=1, lb=1, ub=10) #time constant
 
