@@ -10,8 +10,8 @@
 
 .App-header {
   background-color: #483c6c;
-  height: 80px;
-  padding: 20px;
+  /* height: 80px; */
+  padding: 8px;
   color: white;
 }
 
@@ -24,9 +24,15 @@
 }
 
 .main {
+  margin-top: 18px;
   width: 100%;
 }
 
 .chart {
   display: inline-block;
+}
+
+.setRatio {
+  display: inline-block;
+  width: 480px;
 }
