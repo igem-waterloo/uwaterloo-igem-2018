@@ -19,6 +19,7 @@ def results():
       {'name': '75m', 'percent': 45},
       {'name': '90m', 'percent': 50},
     ];
+
     return jsonify(data)
 
 @app.route('/set_ratio', methods=['POST'])
